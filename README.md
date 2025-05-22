@@ -1,5 +1,6 @@
-👋 Hi, I’m @Borzalic
+![Hi]([https://img.shields.io/badge/Creator%20of%20EduDiamond-8A2BE2](https://img.shields.io/badge/%F0%9F%91%8B%20Hi!-Im%20Murat%20Guven-blue)
 ![Creator Of EduDiamond](https://img.shields.io/badge/Creator%20of%20EduDiamond-8A2BE2)
+
 
 # 🤖 Artificial Intelligence and Bots
 
