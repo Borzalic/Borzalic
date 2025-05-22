@@ -1,4 +1,5 @@
 👋 Hi, I’m @Borzalic
+![Creator Of EduDiamond](https://img.shields.io/badge/Creator%20of%20EduDiamond-8A2BE2)
 
 # 🤖 Artificial Intelligence and Bots
 
