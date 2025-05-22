@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Borzalic
-- Discord: 150277210740228098
+👋 Hi, I’m @Borzalic
+
