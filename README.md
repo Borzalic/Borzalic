@@ -1,7 +1,6 @@
 ![Creator Of EduDiamond](https://img.shields.io/badge/%F0%9F%91%8B%20Hi!-Im%20Murat%20Guven-blue)
 ![Creator Of EduDiamond](https://img.shields.io/badge/Creator%20of%20EduDiamond-8A2BE2)
 
-
 # 🤖 Artificial Intelligence and Bots
 
 
@@ -113,3 +112,4 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/2c24280a-428f-4343-9a69-c9e5849ce5ce)
